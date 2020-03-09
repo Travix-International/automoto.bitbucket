@@ -1,2 +1,2 @@
 # automoto.bitbucket
-bitbucket development security standard checker
+Bitbucket Development Security Standard Checker
