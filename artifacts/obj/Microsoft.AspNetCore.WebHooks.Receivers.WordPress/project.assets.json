@@ -3605,18 +3605,18 @@
   "project": {
     "version": "1.0.0-dev",
     "restore": {
-      "projectUniqueName": "/Users/sjubba/git/xautomoto.bitbucket/src/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.csproj",
+      "projectUniqueName": "/Users/sjubba/git/WebHooks/src/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.csproj",
       "projectName": "Microsoft.AspNetCore.WebHooks.Receivers.WordPress",
-      "projectPath": "/Users/sjubba/git/xautomoto.bitbucket/src/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.csproj",
+      "projectPath": "/Users/sjubba/git/WebHooks/src/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.csproj",
       "packagesPath": "/Users/sjubba/.nuget/packages/",
-      "outputPath": "/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/",
+      "outputPath": "/Users/sjubba/git/WebHooks/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/sjubba/git/xautomoto.bitbucket/NuGet.Config",
-        "/Users/sjubba/.nuget/NuGet/NuGet.Config"
+        "/Users/sjubba/git/WebHooks/NuGet.Config",
+        "/Users/sjubba/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -3632,8 +3632,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/sjubba/git/xautomoto.bitbucket/src/Microsoft.AspNetCore.WebHooks.Receivers/Microsoft.AspNetCore.WebHooks.Receivers.csproj": {
-              "projectPath": "/Users/sjubba/git/xautomoto.bitbucket/src/Microsoft.AspNetCore.WebHooks.Receivers/Microsoft.AspNetCore.WebHooks.Receivers.csproj"
+            "/Users/sjubba/git/WebHooks/src/Microsoft.AspNetCore.WebHooks.Receivers/Microsoft.AspNetCore.WebHooks.Receivers.csproj": {
+              "projectPath": "/Users/sjubba/git/WebHooks/src/Microsoft.AspNetCore.WebHooks.Receivers/Microsoft.AspNetCore.WebHooks.Receivers.csproj"
             }
           }
         }
