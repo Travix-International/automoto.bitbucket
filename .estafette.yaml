@@ -5,17 +5,17 @@ labels:
 
 stages:
   restore:
-    image: mcr.microsoft.com/dotnet/core/sdk:2.1
+    image: mcr.microsoft.com/dotnet/core/sdk:3.1
     commands:
     - dotnet restore
 
   build:
-    image: mcr.microsoft.com/dotnet/core/sdk:2.1
+    image: mcr.microsoft.com/dotnet/core/sdk:3.1
     commands:
     - dotnet build --configuration Release --version-suffix ${ESTAFETTE_BUILD_VERSION_PATCH} --no-restore
 
   publish:
-    image: mcr.microsoft.com/dotnet/core/sdk:2.1
+    image: mcr.microsoft.com/dotnet/core/sdk:3.1
     commands:
     - dotnet publish --configuration Release --runtime linux-musl-x64 --version-suffix ${ESTAFETTE_BUILD_VERSION_PATCH} --output ./publish --no-restore
 
