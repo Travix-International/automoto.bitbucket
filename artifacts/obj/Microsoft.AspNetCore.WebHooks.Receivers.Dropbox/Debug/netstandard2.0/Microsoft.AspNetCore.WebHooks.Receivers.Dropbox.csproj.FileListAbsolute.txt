@@ -1,0 +1,9 @@
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/bin/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.deps.json
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/bin/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.dll
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.xlf/XlfSources.txt
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.xlf/UpdateXlf.lastrun
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.sourcelink.json
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.AssemblyInfoInputs.cache
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.AssemblyInfo.cs
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.csproj.CopyComplete
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Dropbox.dll

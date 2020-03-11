@@ -1,0 +1,9 @@
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/bin/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.deps.json
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/bin/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.dll
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.xlf/XlfSources.txt
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.xlf/UpdateXlf.lastrun
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.sourcelink.json
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.AssemblyInfoInputs.cache
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.AssemblyInfo.cs
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.csproj.CopyComplete
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.Kudu/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.Kudu.dll

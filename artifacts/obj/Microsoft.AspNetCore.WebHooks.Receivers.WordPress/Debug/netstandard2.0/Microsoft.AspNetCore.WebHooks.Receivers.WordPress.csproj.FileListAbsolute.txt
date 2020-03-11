@@ -1,0 +1,10 @@
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/bin/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.deps.json
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/bin/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.dll
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.xlf/XlfSources.txt
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.xlf/UpdateXlf.lastrun
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.csprojAssemblyReference.cache
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.sourcelink.json
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.AssemblyInfoInputs.cache
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.AssemblyInfo.cs
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.csproj.CopyComplete
+/Users/sjubba/git/xautomoto.bitbucket/artifacts/obj/Microsoft.AspNetCore.WebHooks.Receivers.WordPress/Debug/netstandard2.0/Microsoft.AspNetCore.WebHooks.Receivers.WordPress.dll
