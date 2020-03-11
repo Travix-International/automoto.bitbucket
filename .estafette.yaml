@@ -20,15 +20,22 @@ stages:
     - dotnet publish --configuration Release --runtime linux-musl-x64 --version-suffix ${ESTAFETTE_BUILD_VERSION_PATCH} --output ./publish --no-restore
 
   bake:
-    image: mcr.microsoft.com/dotnet/core/sdk:3.1
+    image: extensions/docker:stable
     action: build
-    path: publish
+    container: ${ESTAFETTE_LABEL_CONTAINER}
     repositories:
-    - eu.gcr.io/travix-com
+    - travix
 
-  push-to-gcr-io:
+  push-to-docker-hub-latest:
     image: extensions/docker:stable
     action: push
+    container: ${ESTAFETTE_LABEL_CONTAINER}
     repositories:
-    - eu.gcr.io/travix-com
+    - travix
+    pushVersionTag: false
+    tags:
+    - latest
+    when:
+      status == 'succeeded' &&
+      branch == 'master'
 
