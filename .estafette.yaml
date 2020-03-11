@@ -17,12 +17,12 @@ stages:
   publish:
     image: mcr.microsoft.com/dotnet/core/sdk:3.1
     commands:
-    - dotnet publish src/Automoto.Bitbucket.WebService --configuration Release --runtime linux-musl-x64 --version-suffix ${ESTAFETTE_BUILD_VERSION_PATCH} --output ./publish --no-restore
+    - dotnet publish --configuration Release --runtime linux-musl-x64 --version-suffix ${ESTAFETTE_BUILD_VERSION_PATCH} --output ./publish --no-restore
 
   bake:
     image: mcr.microsoft.com/dotnet/core/sdk:3.1
     action: build
-    path: src/Automoto.Bitbucket.WebService/publish
+    path: publish
     repositories:
     - eu.gcr.io/travix-com
 
