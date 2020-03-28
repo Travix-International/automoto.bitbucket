@@ -1,9 +1,9 @@
 {
   "sdk": {
-    "version": "2.1.805"
+    "version": "2.1"
   },
   "tools": {
-    "dotnet": "2.1.805"
+    "dotnet": "2.1"
   },
   "msbuild-sdks": {
     "Yarn.MSBuild": "1.15.2",
