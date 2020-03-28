@@ -19,12 +19,12 @@ stages:
     commands:
     - dotnet publish --configuration Release --runtime linux-musl-x64 --version-suffix ${ESTAFETTE_BUILD_VERSION_PATCH} --output ./publish --no-restore
 
-  # bake:
-  #   image: extensions/docker:stable
-  #   action: build
-  #   container: ${ESTAFETTE_LABEL_CONTAINER}
-  #   repositories:
-  #   - travix
+  bake:
+    image: extensions/docker:stable
+    action: build
+    container: ${ESTAFETTE_LABEL_CONTAINER}
+    repositories:
+    - travix
 
   # push-to-docker-hub-latest:
   #   image: extensions/docker:stable
